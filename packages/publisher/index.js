@@ -1,1 +1,1 @@
-export default function demo3() {}
+export default function demo() {}
