@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.1](https://github.com/i62navpm/semantic-release/compare/@i6navpm/publisher@0.3.0...@i6navpm/publisher@0.3.1) (2019-05-13)
+
+
+### Bug Fixes
+
+* function name ([f736be7](https://github.com/i62navpm/semantic-release/commit/f736be7))
+
+
+
+
+
 # [0.3.0](https://github.com/i62navpm/semantic-release/compare/@i6navpm/publisher@0.2.0...@i6navpm/publisher@0.3.0) (2019-05-13)
 
 
