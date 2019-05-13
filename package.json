@@ -2,19 +2,17 @@
   "name": "nodecodetest",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "private": true,
+  "author": "Manuel Navarro Perez",
+  "workspaces": [
+    "packages/*"
+  ],
   "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^7.6.1",
     "@commitlint/config-conventional": "^7.6.0",
-    "eslint": "^5.16.0",
-    "eslint-config-prettier": "^4.2.0",
-    "eslint-plugin-prettier": "^3.1.0",
     "husky": "^2.2.0",
+    "lerna": "^3.4.3",
     "prettier": "^1.17.1"
   }
 }
