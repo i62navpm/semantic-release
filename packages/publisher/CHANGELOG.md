@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.1](https://github.com/i62navpm/semantic-release/compare/@i6navpm/publisher@0.1.0...@i6navpm/publisher@0.1.1) (2019-05-13)
+
+**Note:** Version bump only for package @i6navpm/publisher
+
+
+
+
+
+
 # 0.1.0 (2019-05-13)
 
 
