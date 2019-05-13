@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/i62navpm/semantic-release/compare/@i6navpm/publisher@0.2.0...@i6navpm/publisher@0.3.0) (2019-05-13)
+
+
+### Features
+
+* rename function name ([05a0830](https://github.com/i62navpm/semantic-release/commit/05a0830))
+
+
+
+
+
+
 # [0.2.0](https://github.com/i62navpm/semantic-release/compare/@i6navpm/publisher@0.1.1...@i6navpm/publisher@0.2.0) (2019-05-13)
 
 
